@@ -33,4 +33,4 @@ jobs:
           git commit -m "Update Site Status Reports" || exit 0
           # নিচের লাইনটি আপনার সমস্যা সমাধান করবে (Fetch and Rebase)
           git pull --rebase origin main 
-          git push
+          git push origin main
